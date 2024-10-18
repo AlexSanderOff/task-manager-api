@@ -1,16 +1,9 @@
-# flutter_firebase
+# planetgeo
 
-A new Flutter project.
+**SOBRE A APLICAÇÃO**
 
-## Getting Started
+Aplicação criada com intuito educacional. Pelo grupo BiNut de estudantes da Fatec. É um aplicativo que lê o usuário, o autentifica através da senha que deve ter 8 dígitos e então mostra a ele uma aba para ser possível calcular o desconto do produto inserindo o preço.
 
-This project is a starting point for a Flutter application.
+**TÉCNOLOGIAS USADAS**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A aplicação foi desenvolvida com Flutter Dart, utilizando Firebase para o banco de dados. A versão do Flutter utilizada foi a ultima versão lancada no ano de 2024.
