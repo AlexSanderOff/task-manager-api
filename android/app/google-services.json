@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "944656262361",
+    "firebase_url": "https://planetm-f9e20-default-rtdb.firebaseio.com",
+    "project_id": "planetm-f9e20",
+    "storage_bucket": "planetm-f9e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944656262361:android:1459a9802704e991fc4ac8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCs98QOCrKapv8yygJsS3I1wHGT9MwV8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
