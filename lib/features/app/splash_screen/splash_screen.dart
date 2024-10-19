@@ -30,7 +30,8 @@ class _SplashScreenState extends State<SplashScreen> {
           "O PlanetGeo te dá as boas vindas!",
           style: TextStyle(
             color: Colors.blue,
-            fontWeight: FontWeight.bold,
+            fontWeight: FontWeight.w800,
+             height: 50,
           ),
         ),
       ),
