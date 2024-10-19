@@ -49,7 +49,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Text('Home Screen'),
+      child: Text('Olá, seja bem vindo ao PlanetGeo! Ao lado, você será capaz de calcular o desconto do seu produto'),
     );
   }
 }
